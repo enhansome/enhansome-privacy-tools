@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T08:21:53Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35471
+            "stars": 35513
           }
         },
         {
@@ -28,7 +28,7 @@
           "description": "Self-hosted private metasearch proxy.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
             "last_commit": "2026-08-14T14:12:30Z",
             "owner": "benbusby",
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-14T15:36:42Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 66971
+            "stars": 66992
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2025-07-27T12:54:30Z",
             "owner": "ClearURLs",
             "repo": "Addon",
-            "stars": 4998
+            "stars": 5001
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-12-26T09:54:25Z",
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2011
+            "stars": 2013
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-02-20T13:38:11Z",
             "owner": "kkapsner",
             "repo": "CanvasBlocker",
-            "stars": 1502
+            "stars": 1501
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-10T02:55:19Z",
             "owner": "ImranR98",
             "repo": "Obtainium",
-            "stars": 18963
+            "stars": 18981
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-06-29T21:57:31Z",
             "owner": "MuntashirAkon",
             "repo": "AppManager",
-            "stars": 8730
+            "stars": 8736
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-01T21:29:40Z",
             "owner": "M66B",
             "repo": "NetGuard",
-            "stars": 3820
+            "stars": 3822
           }
         }
       ],
@@ -197,7 +197,7 @@
             "last_commit": "2026-08-13T14:46:28Z",
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 65408
+            "stars": 65449
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-07-30T10:20:13Z",
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 42857
+            "stars": 42884
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-14T15:30:59Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36106
+            "stars": 36131
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-08-14T08:21:53Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35471
+            "stars": 35513
           }
         },
         {
@@ -248,7 +248,7 @@
           "description": "Self-hosted private search proxy.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
             "last_commit": "2026-08-14T14:12:30Z",
             "owner": "benbusby",
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-14T19:47:48Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27463
+            "stars": 27477
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2026-08-10T11:27:27Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22803
+            "stars": 22824
           }
         }
       ],
@@ -307,7 +307,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495769
+            "stars": 496115
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-12T18:50:03Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 312677
+            "stars": 312883
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118330
+            "stars": 118402
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-06-20T20:39:14Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34900
+            "stars": 34905
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14749
+            "stars": 14750
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7066
+            "stars": 7068
           }
         },
         {
@@ -409,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:01:30.827Z",
+    "last_updated": "2026-08-15T21:59:34.973Z",
     "original_repository": "anondotli/awesome-privacy-tools",
     "original_repository_sha": "e871b77789e89275795f065f54d4cb668d844d98",
     "enhanced_repository": "enhansome/enhansome-privacy-tools",
