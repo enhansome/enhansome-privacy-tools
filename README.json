@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "A quick privacy stack for common needs:",
-      "items": [],
-      "title": "Start Here: Best Privacy Tools by Use Case"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357241735,
             "language": "Python",
-            "last_commit": "2026-08-17T12:09:49Z",
+            "last_commit": "2026-08-19T12:09:02Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35692
+            "stars": 35723
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 235434204,
             "language": "Python",
             "last_commit": "2026-08-14T14:12:30Z",
             "owner": "benbusby",
@@ -40,7 +37,7 @@
       "title": "Private Browsers and Search Engines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T17:11:58Z",
+            "last_commit": "2026-08-19T11:56:14Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67063
+            "stars": 67076
           }
         },
         {
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99286908,
             "language": "JavaScript",
             "last_commit": "2025-07-27T12:54:30Z",
             "owner": "ClearURLs",
             "repo": "Addon",
-            "stars": 5003
+            "stars": 5006
           }
         },
         {
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78816383,
             "language": "TypeScript",
             "last_commit": "2025-12-26T09:54:25Z",
             "owner": "Cookie-AutoDelete",
@@ -91,18 +91,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22450941,
             "language": "JavaScript",
             "last_commit": "2026-02-20T13:38:11Z",
             "owner": "kkapsner",
             "repo": "CanvasBlocker",
-            "stars": 1501
+            "stars": 1502
           }
         }
       ],
       "title": "Browser Privacy Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -111,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41997606,
             "language": "Go",
             "last_commit": "2026-07-22T20:07:26Z",
             "owner": "rfjakob",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 809024715,
             "language": "Go",
             "last_commit": "2025-09-07T18:57:33Z",
             "owner": "Picocrypt",
@@ -136,7 +139,7 @@
       "title": "File Encryption and Secure File Sharing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -145,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523534328,
             "language": "Dart",
             "last_commit": "2026-08-10T02:55:19Z",
             "owner": "ImranR98",
             "repo": "Obtainium",
-            "stars": 19058
+            "stars": 19067
           }
         },
         {
@@ -159,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268006778,
             "language": "Java",
             "last_commit": "2026-06-29T21:57:31Z",
             "owner": "MuntashirAkon",
             "repo": "AppManager",
-            "stars": 8760
+            "stars": 8766
           }
         },
         {
@@ -173,18 +178,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44877925,
             "language": "Java",
             "last_commit": "2026-08-01T21:29:40Z",
             "owner": "M66B",
             "repo": "NetGuard",
-            "stars": 3829
+            "stars": 3830
           }
         }
       ],
       "title": "Mobile Privacy Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -193,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121898717,
             "language": "Rust",
             "last_commit": "2026-08-13T14:46:28Z",
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 65613
+            "stars": 65645
           }
         },
         {
@@ -207,11 +214,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273871859,
             "language": "Go",
             "last_commit": "2026-07-30T10:20:13Z",
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 42985
+            "stars": 43001
           }
         },
         {
@@ -221,11 +229,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62712899,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:33:03Z",
+            "last_commit": "2026-08-19T12:03:18Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36195
+            "stars": 36217
           }
         },
         {
@@ -235,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357241735,
             "language": "Python",
-            "last_commit": "2026-08-17T12:09:49Z",
+            "last_commit": "2026-08-19T12:09:02Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35692
+            "stars": 35723
           }
         },
         {
@@ -249,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 235434204,
             "language": "Python",
             "last_commit": "2026-08-14T14:12:30Z",
             "owner": "benbusby",
@@ -260,7 +271,7 @@
       "title": "Self-Hosted Privacy Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -269,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77726177,
             "language": "Go",
             "last_commit": "2026-08-18T21:51:06Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27512
+            "stars": 27521
           }
         },
         {
@@ -283,18 +295,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40684033,
             "language": "Go",
             "last_commit": "2026-08-17T17:56:38Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22852
+            "stars": 22858
           }
         }
       ],
       "title": "Cryptography and Security Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -303,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497397
+            "stars": 497666
           }
         },
         {
@@ -317,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-17T08:30:25Z",
+            "last_commit": "2026-08-19T10:02:51Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 313521
+            "stars": 313652
           }
         },
         {
@@ -331,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55076063,
             "language": null,
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118572
+            "stars": 118612
           }
         },
         {
@@ -345,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28387406,
             "language": null,
-            "last_commit": "2026-08-16T10:22:10Z",
+            "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34923
+            "stars": 34927
           }
         },
         {
@@ -359,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23208012,
             "language": null,
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14763
+            "stars": 14766
           }
         },
         {
@@ -373,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59573221,
             "language": null,
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7075
+            "stars": 7077
           }
         },
         {
@@ -387,30 +406,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 120773959,
             "language": null,
             "last_commit": "2022-11-13T09:29:41Z",
             "owner": "humanetech-community",
             "repo": "awesome-humane-tech",
-            "stars": 3127
+            "stars": 3126
           }
         }
       ],
       "title": "More Awesome Lists"
-    },
-    {
-      "description": "Contributions are welcome. Please read CONTRIBUTING.md before opening a pull request.\nGood contributions add high-quality privacy tools, improve descriptions, remove dead links, disclose conflicts of interest, and keep the list neutral.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "CC0 1.0 Universal. Public domain dedication.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:00:37.976Z",
+    "last_updated": "2026-08-19T12:45:33.333Z",
     "original_repository": "anondotli/awesome-privacy-tools",
+    "original_repository_id": 1222949300,
     "original_repository_sha": "e871b77789e89275795f065f54d4cb668d844d98",
     "enhanced_repository": "enhansome/enhansome-privacy-tools",
     "enhanced_repository_description": null,
