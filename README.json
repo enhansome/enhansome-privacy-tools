@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "description": "A quick privacy stack for common needs:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Private search",
+          "description": "DuckDuckGo, Brave Search, Startpage, SearXNG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357241735,
+            "language": "Python",
+            "last_commit": "2026-08-22T05:35:24Z",
+            "owner": "searxng",
+            "repo": "searxng",
+            "stars": 36037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File encryption",
+          "description": "Cryptomator, VeraCrypt, age, Picocrypt",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 809024715,
+            "language": "Go",
+            "last_commit": "2025-09-07T18:57:33Z",
+            "owner": "Picocrypt",
+            "repo": "Picocrypt",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-hosted privacy",
+          "description": "Nextcloud, Vaultwarden, SearXNG, Pi-hole",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121898717,
+            "language": "Rust",
+            "last_commit": "2026-08-22T12:09:35Z",
+            "owner": "dani-garcia",
+            "repo": "vaultwarden",
+            "stars": 66062
+          }
+        }
+      ],
+      "title": "Start Here: Best Privacy Tools by Use Case"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15,7 +66,7 @@
             "last_commit": "2026-08-22T05:35:24Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35989
+            "stars": 36037
           }
         },
         {
@@ -51,7 +102,7 @@
             "last_commit": "2026-08-23T13:37:57Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67235
+            "stars": 67248
           }
         },
         {
@@ -66,7 +117,7 @@
             "last_commit": "2025-07-27T12:54:30Z",
             "owner": "ClearURLs",
             "repo": "Addon",
-            "stars": 5015
+            "stars": 5016
           }
         },
         {
@@ -107,6 +158,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "dnscrypt-proxy",
+          "description": "Flexible DNS proxy supporting encrypted DNS protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116739828,
+            "language": "Go",
+            "last_commit": "2026-08-24T03:56:00Z",
+            "owner": "DNSCrypt",
+            "repo": "dnscrypt-proxy",
+            "stars": 13597
+          }
+        }
+      ],
+      "title": "VPNs, Tor, and Network Privacy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AdGuard Home",
+          "description": "Self-hosted network-wide ad and tracker blocker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62712899,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T14:51:22Z",
+            "owner": "AdguardTeam",
+            "repo": "AdGuardHome",
+            "stars": 36336
+          }
+        }
+      ],
+      "title": "DNS, Ad Blocking, and Tracker Blocking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "gocryptfs",
           "description": "Encrypted overlay filesystem for Linux and macOS.",
           "children": [],
@@ -117,7 +210,7 @@
             "last_commit": "2026-07-22T20:07:26Z",
             "owner": "rfjakob",
             "repo": "gocryptfs",
-            "stars": 4577
+            "stars": 4579
           }
         },
         {
@@ -143,6 +236,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "qnote",
+          "description": "Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1216904355,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T17:28:33Z",
+            "owner": "Omibranch",
+            "repo": "qnote",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Private Cloud Storage, Notes, and Collaboration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Secureblue",
+          "description": "Hardened Fedora Atomic images with security-focused defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686460804,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:52:13Z",
+            "owner": "secureblue",
+            "repo": "secureblue",
+            "stars": 1035
+          }
+        }
+      ],
+      "title": "Operating Systems and Device Privacy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Obtainium",
           "description": "Install and update Android apps directly from release sources.",
           "children": [],
@@ -150,10 +285,10 @@
             "archived": false,
             "id": 523534328,
             "language": "Dart",
-            "last_commit": "2026-08-23T21:31:42Z",
+            "last_commit": "2026-08-24T05:25:46Z",
             "owner": "ImranR98",
             "repo": "Obtainium",
-            "stars": 19187
+            "stars": 19212
           }
         },
         {
@@ -168,7 +303,7 @@
             "last_commit": "2026-08-22T20:02:03Z",
             "owner": "MuntashirAkon",
             "repo": "AppManager",
-            "stars": 8800
+            "stars": 8811
           }
         },
         {
@@ -183,7 +318,7 @@
             "last_commit": "2026-08-01T21:29:40Z",
             "owner": "M66B",
             "repo": "NetGuard",
-            "stars": 3839
+            "stars": 3844
           }
         }
       ],
@@ -204,7 +339,7 @@
             "last_commit": "2026-08-22T12:09:35Z",
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 65944
+            "stars": 66062
           }
         },
         {
@@ -216,10 +351,10 @@
             "archived": false,
             "id": 273871859,
             "language": "Go",
-            "last_commit": "2026-07-30T10:20:13Z",
+            "last_commit": "2026-08-24T11:46:11Z",
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 43111
+            "stars": 43136
           }
         },
         {
@@ -234,7 +369,7 @@
             "last_commit": "2026-08-21T14:51:22Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36324
+            "stars": 36336
           }
         },
         {
@@ -249,7 +384,7 @@
             "last_commit": "2026-08-22T05:35:24Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 35989
+            "stars": 36037
           }
         },
         {
@@ -282,10 +417,10 @@
             "archived": false,
             "id": 77726177,
             "language": "Go",
-            "last_commit": "2026-08-23T19:07:46Z",
+            "last_commit": "2026-08-24T13:40:24Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27559
+            "stars": 27571
           }
         },
         {
@@ -297,10 +432,10 @@
             "archived": false,
             "id": 40684033,
             "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
+            "last_commit": "2026-08-24T09:19:35Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22902
+            "stars": 22906
           }
         }
       ],
@@ -321,7 +456,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499289
+            "stars": 499522
           }
         },
         {
@@ -336,7 +471,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314538
+            "stars": 314664
           }
         },
         {
@@ -351,7 +486,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118899
+            "stars": 118950
           }
         },
         {
@@ -366,7 +501,7 @@
             "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34970
+            "stars": 34979
           }
         },
         {
@@ -381,7 +516,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -396,7 +531,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7086
+            "stars": 7087
           }
         },
         {
@@ -411,7 +546,7 @@
             "last_commit": "2022-11-13T09:29:41Z",
             "owner": "humanetech-community",
             "repo": "awesome-humane-tech",
-            "stars": 3126
+            "stars": 3127
           }
         }
       ],
@@ -419,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:59:46.606Z",
+    "last_updated": "2026-08-24T14:46:47.792Z",
     "original_repository": "anondotli/awesome-privacy-tools",
     "original_repository_id": 1222949300,
     "original_repository_sha": "e871b77789e89275795f065f54d4cb668d844d98",
