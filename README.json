@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T16:53:26Z",
-            "open_issues": 196,
+            "open_issues": 195,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37663,
+            "stars": 37687,
             "topics": [
               "bing",
               "brave",
@@ -91,10 +91,10 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T19:53:07Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 68198,
+            "stars": 68231,
             "topics": [
               "bitwarden",
               "bitwarden-rs",
@@ -125,10 +125,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T16:53:26Z",
-            "open_issues": 196,
+            "open_issues": 195,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37663,
+            "stars": 37687,
             "topics": [
               "bing",
               "brave",
@@ -204,7 +204,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68139,
+            "stars": 68160,
             "topics": [
               "blocker",
               "browser-extension",
@@ -327,7 +327,7 @@
             "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13693,
+            "stars": 13697,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -367,7 +367,7 @@
             "open_issues": 1260,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37076,
+            "stars": 37087,
             "topics": [
               "adblock",
               "adguard",
@@ -405,7 +405,7 @@
             "open_issues": 65,
             "owner": "rfjakob",
             "repo": "gocryptfs",
-            "stars": 4617,
+            "stars": 4618,
             "topics": [
               "encryption",
               "filesystem",
@@ -499,8 +499,8 @@
             "id": 686460804,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T23:46:55Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-27T20:46:16Z",
+            "open_issues": 163,
             "owner": "secureblue",
             "repo": "secureblue",
             "stars": 1073,
@@ -530,7 +530,7 @@
             "open_issues": 386,
             "owner": "ImranR98",
             "repo": "Obtainium",
-            "stars": 19996,
+            "stars": 20029,
             "topics": [
               "android",
               "apk",
@@ -568,7 +568,7 @@
             "open_issues": 198,
             "owner": "MuntashirAkon",
             "repo": "AppManager",
-            "stars": 9072,
+            "stars": 9079,
             "topics": [
               "adb",
               "android",
@@ -595,7 +595,7 @@
             "open_issues": 1,
             "owner": "M66B",
             "repo": "NetGuard",
-            "stars": 3906,
+            "stars": 3904,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:55.195Z"
@@ -619,10 +619,10 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T19:53:07Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 68198,
+            "stars": 68231,
             "topics": [
               "bitwarden",
               "bitwarden-rs",
@@ -646,11 +646,11 @@
             "id": 273871859,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T06:48:11Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-27T19:47:45Z",
+            "open_issues": 142,
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 44149,
+            "stars": 44172,
             "topics": [
               "tailscale",
               "tailscale-control-server",
@@ -673,10 +673,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T16:53:26Z",
-            "open_issues": 196,
+            "open_issues": 195,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37663,
+            "stars": 37687,
             "topics": [
               "bing",
               "brave",
@@ -713,7 +713,7 @@
             "open_issues": 1260,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37076,
+            "stars": 37087,
             "topics": [
               "adblock",
               "adguard",
@@ -780,11 +780,11 @@
             "id": 77726177,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T15:19:54Z",
+            "last_commit": "2026-09-27T15:17:32Z",
             "open_issues": 557,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28076,
+            "stars": 28136,
             "topics": [
               "credentials",
               "devsecops",
@@ -818,7 +818,7 @@
             "open_issues": 448,
             "owner": "getsops",
             "repo": "sops",
-            "stars": 23226,
+            "stars": 23230,
             "topics": [
               "aws",
               "azure",
@@ -852,10 +852,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 107,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 510988,
+            "stars": 511485,
             "topics": [
               "awesome",
               "awesome-list",
@@ -882,7 +882,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 322016,
+            "stars": 322258,
             "topics": [
               "awesome",
               "awesome-list",
@@ -912,7 +912,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121290,
+            "stars": 121374,
             "topics": [
               "android",
               "awesome",
@@ -943,7 +943,7 @@
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35264,
+            "stars": 35279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -971,10 +971,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 344,
+            "open_issues": 346,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14898,
+            "stars": 14911,
             "topics": [
               "awesome-list",
               "security"
@@ -998,7 +998,7 @@
             "open_issues": 75,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7129,
+            "stars": 7128,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:56:04.527Z",
+    "last_updated": "2026-09-27T23:59:53.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome privacy tools: encrypted messaging, anonymous email, VPNs, Tor, password managers, secure file sharing, browser privacy, and self-hosted privacy software.",
