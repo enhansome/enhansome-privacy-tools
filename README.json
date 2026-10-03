@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37890,
+            "stars": 37895,
             "topics": [
               "bing",
               "brave",
@@ -91,10 +91,10 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T19:53:07Z",
-            "open_issues": 102,
+            "open_issues": 104,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 68436,
+            "stars": 68444,
             "topics": [
               "bitwarden",
               "bitwarden-rs",
@@ -128,7 +128,7 @@
             "open_issues": 189,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37890,
+            "stars": 37895,
             "topics": [
               "bing",
               "brave",
@@ -204,7 +204,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68290,
+            "stars": 68292,
             "topics": [
               "blocker",
               "browser-extension",
@@ -327,7 +327,7 @@
             "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13714,
+            "stars": 13713,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -367,7 +367,7 @@
             "open_issues": 1246,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37182,
+            "stars": 37186,
             "topics": [
               "adblock",
               "adguard",
@@ -503,7 +503,7 @@
             "open_issues": 160,
             "owner": "secureblue",
             "repo": "secureblue",
-            "stars": 1078,
+            "stars": 1077,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:55.195Z"
@@ -530,7 +530,7 @@
             "open_issues": 391,
             "owner": "ImranR98",
             "repo": "Obtainium",
-            "stars": 20147,
+            "stars": 20149,
             "topics": [
               "android",
               "apk",
@@ -568,7 +568,7 @@
             "open_issues": 198,
             "owner": "MuntashirAkon",
             "repo": "AppManager",
-            "stars": 9113,
+            "stars": 9115,
             "topics": [
               "adb",
               "android",
@@ -619,10 +619,10 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T19:53:07Z",
-            "open_issues": 102,
+            "open_issues": 104,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 68436,
+            "stars": 68444,
             "topics": [
               "bitwarden",
               "bitwarden-rs",
@@ -650,7 +650,7 @@
             "open_issues": 149,
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 44304,
+            "stars": 44306,
             "topics": [
               "tailscale",
               "tailscale-control-server",
@@ -676,7 +676,7 @@
             "open_issues": 189,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37890,
+            "stars": 37895,
             "topics": [
               "bing",
               "brave",
@@ -713,7 +713,7 @@
             "open_issues": 1246,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37182,
+            "stars": 37186,
             "topics": [
               "adblock",
               "adguard",
@@ -784,7 +784,7 @@
             "open_issues": 559,
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 28245,
+            "stars": 28248,
             "topics": [
               "credentials",
               "devsecops",
@@ -855,7 +855,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513736,
+            "stars": 513799,
             "topics": [
               "awesome",
               "awesome-list",
@@ -882,7 +882,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 323441,
+            "stars": 323482,
             "topics": [
               "awesome",
               "awesome-list",
@@ -912,7 +912,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121720,
+            "stars": 121733,
             "topics": [
               "android",
               "awesome",
@@ -943,7 +943,7 @@
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35318,
+            "stars": 35319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -974,7 +974,7 @@
             "open_issues": 350,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14929,
+            "stars": 14930,
             "topics": [
               "awesome-list",
               "security"
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:30.778Z",
+    "last_updated": "2026-10-03T05:01:49.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome privacy tools: encrypted messaging, anonymous email, VPNs, Tor, password managers, secure file sharing, browser privacy, and self-hosted privacy software.",
