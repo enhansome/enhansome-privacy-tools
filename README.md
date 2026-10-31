@@ -43,13 +43,13 @@ A quick privacy stack for common needs:
 | Encrypted email           | [Proton Mail](https://proton.me/mail), [Tuta](https://tuta.com/), [Mailbox.org](https://mailbox.org/)                                                                                                                                                                         |
 | Secure messaging          | [Signal](https://signal.org/), [SimpleX Chat](https://simplex.chat/), [Briar](https://briarproject.org/), [Element](https://element.io/)                                                                                                                                      |
 | Private browsing          | [Tor Browser](https://www.torproject.org/download/), [Mullvad Browser](https://mullvad.net/en/browser), [LibreWolf](https://librewolf.net/), [Firefox](https://www.mozilla.org/firefox/)                                                                                      |
-| Private search            | [DuckDuckGo](https://duckduckgo.com/), [Brave Search](https://search.brave.com/), [Startpage](https://www.startpage.com/), [SearXNG](https://github.com/searxng/searxng) ⭐ 38,997 \| 🐛 210 \| 🌐 Python \| 📅 2026-10-29                                                     |
+| Private search            | [DuckDuckGo](https://duckduckgo.com/), [Brave Search](https://search.brave.com/), [Startpage](https://www.startpage.com/), [SearXNG](https://github.com/searxng/searxng) ⭐ 39,033 \| 🐛 211 \| 🌐 Python \| 📅 2026-10-30                                                     |
 | Password security         | [Bitwarden](https://bitwarden.com/), [KeePassXC](https://keepassxc.org/), [Proton Pass](https://proton.me/pass), [1Password](https://1password.com/)                                                                                                                          |
 | Two-factor authentication | [Aegis Authenticator](https://getaegis.app/), [Ente Auth](https://ente.io/auth/), [2FAS](https://2fas.com/), [YubiKey](https://www.yubico.com/products/)                                                                                                                      |
 | Secure file sharing       | [anon.li Drop](https://anon.li/drop), [OnionShare](https://onionshare.org/), [Magic Wormhole](https://magic-wormhole.readthedocs.io/), [Syncthing](https://syncthing.net/)                                                                                                    |
 | File encryption           | [Cryptomator](https://cryptomator.org/), [VeraCrypt](https://www.veracrypt.fr/), [age](https://age-encryption.org/), [Picocrypt](https://github.com/Picocrypt/Picocrypt) ⚠️ Archived                                                                                          |
 | Private operating systems | [GrapheneOS](https://grapheneos.org/), [Tails](https://tails.net/), [Qubes OS](https://www.qubes-os.org/), [Whonix](https://www.whonix.org/)                                                                                                                                  |
-| Self-hosted privacy       | [Nextcloud](https://nextcloud.com/), [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,908 \| 🐛 88 \| 🌐 Rust \| 📅 2026-10-29, [SearXNG](https://github.com/searxng/searxng) ⭐ 38,997 \| 🐛 210 \| 🌐 Python \| 📅 2026-10-29, [Pi-hole](https://pi-hole.net/) |
+| Self-hosted privacy       | [Nextcloud](https://nextcloud.com/), [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,960 \| 🐛 89 \| 🌐 Rust \| 📅 2026-10-29, [SearXNG](https://github.com/searxng/searxng) ⭐ 39,033 \| 🐛 211 \| 🌐 Python \| 📅 2026-10-30, [Pi-hole](https://pi-hole.net/) |
 
 ## Selection Criteria
 
@@ -104,7 +104,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Private Browsers and Search Engines
 
-* [SearXNG](https://github.com/searxng/searxng) ⭐ 38,997 | 🐛 210 | 🌐 Python | 📅 2026-10-29 - Self-hostable metasearch engine.
+* [SearXNG](https://github.com/searxng/searxng) ⭐ 39,033 | 🐛 211 | 🌐 Python | 📅 2026-10-30 - Self-hostable metasearch engine.
 * [Whoogle](https://github.com/benbusby/whoogle-search) ⚠️ Archived - Self-hosted private metasearch proxy.
 * [Brave](https://brave.com/) - Chromium-based browser with built-in tracker blocking and privacy features.
 * [Brave Search](https://search.brave.com/) - Search engine with an independent index and privacy-focused defaults.
@@ -118,10 +118,10 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Browser Privacy Extensions
 
-* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 68,917 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-29 - Efficient wide-spectrum content blocker.
-* [ClearURLs](https://github.com/ClearURLs/Addon) ⭐ 5,112 | 🐛 179 | 🌐 JavaScript | 📅 2025-07-27 - Removes tracking parameters from URLs.
-* [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,016 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Deletes cookies from closed tabs with configurable rules.
-* [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) ⭐ 1,530 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-07 - Helps resist browser fingerprinting techniques.
+* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 68,946 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-30 - Efficient wide-spectrum content blocker.
+* [ClearURLs](https://github.com/ClearURLs/Addon) ⭐ 5,116 | 🐛 179 | 🌐 JavaScript | 📅 2025-07-27 - Removes tracking parameters from URLs.
+* [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,015 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Deletes cookies from closed tabs with configurable rules.
+* [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) ⭐ 1,530 | 🐛 72 | 🌐 JavaScript | 📅 2026-09-07 - Helps resist browser fingerprinting techniques.
 * [Firefox Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers) - Isolates accounts and browsing contexts in Firefox.
 * [LocalCDN](https://www.localcdn.org/) - Emulates common content delivery networks locally.
 * [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
@@ -129,7 +129,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## VPNs, Tor, and Network Privacy
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,789 | 🐛 7 | 🌐 Go | 📅 2026-10-29 - Flexible DNS proxy supporting encrypted DNS protocols.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,794 | 🐛 7 | 🌐 Go | 📅 2026-10-30 - Flexible DNS proxy supporting encrypted DNS protocols.
 * [I2P](https://geti2p.net/) - Anonymous overlay network for peer-to-peer services.
 * [IVPN](https://www.ivpn.net/) - VPN provider with privacy-oriented policies and clients.
 * [Lokinet](https://lokinet.org/) - Onion-routed network for private browsing and service access.
@@ -144,7 +144,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## DNS, Ad Blocking, and Tracker Blocking
 
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,896 | 🐛 1,262 | 🌐 TypeScript | 📅 2026-10-27 - Self-hosted network-wide ad and tracker blocker.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,976 | 🐛 1,264 | 🌐 TypeScript | 📅 2026-10-30 - Self-hosted network-wide ad and tracker blocker.
 * [AdGuard DNS](https://adguard-dns.io/) - DNS resolver with ad and tracker blocking options.
 * [Control D](https://controld.com/) - Configurable DNS filtering and encrypted DNS resolver.
 * [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) - Public encrypted DNS with optional blocking profiles.
@@ -172,7 +172,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## File Encryption and Secure File Sharing
 
-* [gocryptfs](https://github.com/rfjakob/gocryptfs) ⭐ 4,712 | 🐛 66 | 🌐 Go | 📅 2026-10-28 - Encrypted overlay filesystem for Linux and macOS.
+* [gocryptfs](https://github.com/rfjakob/gocryptfs) ⭐ 4,717 | 🐛 66 | 🌐 Go | 📅 2026-10-28 - Encrypted overlay filesystem for Linux and macOS.
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) ⚠️ Archived - Small file encryption tool designed for simplicity.
 * [anon.li Drop](https://anon.li/drop) - End-to-end encrypted file sharing with browser-side encryption, expiry, password protection, and download limits.
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud storage.
@@ -199,7 +199,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Operating Systems and Device Privacy
 
-* [Secureblue](https://github.com/secureblue/secureblue) ⭐ 1,097 | 🐛 162 | 🌐 Python | 📅 2026-10-29 - Hardened Fedora Atomic images with security-focused defaults.
+* [Secureblue](https://github.com/secureblue/secureblue) ⭐ 1,099 | 🐛 164 | 🌐 Python | 📅 2026-10-30 - Hardened Fedora Atomic images with security-focused defaults.
 * [CalyxOS](https://calyxos.org/) - Android-based mobile OS with privacy-respecting defaults.
 * [GrapheneOS](https://grapheneos.org/) - Hardened mobile OS for Pixel devices.
 * [Kicksecure](https://www.kicksecure.com/) - Security-hardened Linux distribution from the Whonix project.
@@ -209,9 +209,9 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Mobile Privacy Tools
 
-* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,025 | 🐛 373 | 🌐 Dart | 📅 2026-10-25 - Install and update Android apps directly from release sources.
-* [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,371 | 🐛 194 | 🌐 Java | 📅 2026-10-19 - Android app manager with privacy and permission controls.
-* [NetGuard](https://github.com/M66B/NetGuard) ⭐ 3,949 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - No-root firewall for Android.
+* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,059 | 🐛 373 | 🌐 Dart | 📅 2026-10-25 - Install and update Android apps directly from release sources.
+* [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,379 | 🐛 194 | 🌐 Java | 📅 2026-10-30 - Android app manager with privacy and permission controls.
+* [NetGuard](https://github.com/M66B/NetGuard) ⭐ 3,952 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - No-root firewall for Android.
 * [Aurora Store](https://auroraoss.com/) - Alternative Google Play client.
 * [Exodus Privacy](https://exodus-privacy.eu.org/) - Android app tracker and permission reports.
 * [F-Droid](https://f-droid.org/) - Catalog of free and open-source Android apps.
@@ -232,10 +232,10 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Self-Hosted Privacy Tools
 
-* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,908 | 🐛 88 | 🌐 Rust | 📅 2026-10-29 - Lightweight self-hosted Bitwarden-compatible server.
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 45,179 | 🐛 145 | 🌐 Go | 📅 2026-10-29 - Open-source coordination server for Tailscale-compatible networks.
-* [SearXNG](https://github.com/searxng/searxng) ⭐ 38,997 | 🐛 210 | 🌐 Python | 📅 2026-10-29 - Self-hosted private metasearch engine.
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,896 | 🐛 1,262 | 🌐 TypeScript | 📅 2026-10-27 - Self-hosted ad and tracker blocking DNS server.
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 69,960 | 🐛 89 | 🌐 Rust | 📅 2026-10-29 - Lightweight self-hosted Bitwarden-compatible server.
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 45,210 | 🐛 115 | 🌐 Go | 📅 2026-10-30 - Open-source coordination server for Tailscale-compatible networks.
+* [SearXNG](https://github.com/searxng/searxng) ⭐ 39,033 | 🐛 211 | 🌐 Python | 📅 2026-10-30 - Self-hosted private metasearch engine.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,976 | 🐛 1,264 | 🌐 TypeScript | 📅 2026-10-30 - Self-hosted ad and tracker blocking DNS server.
 * [Whoogle](https://github.com/benbusby/whoogle-search) ⚠️ Archived - Self-hosted private search proxy.
 * [Authentik](https://goauthentik.io/) - Self-hosted identity provider for single sign-on.
 * [Authelia](https://www.authelia.com/) - Self-hosted authentication and authorization server.
@@ -273,8 +273,8 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Cryptography and Security Libraries
 
-* [TruffleHog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,773 | 🐛 593 | 🌐 Go | 📅 2026-10-29 - Secret scanning tool for repositories and other sources.
-* [sops](https://github.com/getsops/sops) ⭐ 23,560 | 🐛 466 | 🌐 Go | 📅 2026-10-27 - Editor for encrypted secrets files.
+* [TruffleHog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,786 | 🐛 594 | 🌐 Go | 📅 2026-10-30 - Secret scanning tool for repositories and other sources.
+* [sops](https://github.com/getsops/sops) ⭐ 23,574 | 🐛 466 | 🌐 Go | 📅 2026-10-27 - Editor for encrypted secrets files.
 * [age](https://age-encryption.org/) - File encryption format and CLI with a small, auditable design.
 * [GnuPG](https://gnupg.org/) - Complete implementation of OpenPGP.
 * [libsodium](https://doc.libsodium.org/) - Modern, easy-to-use cryptography library.
@@ -298,11 +298,11 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## More Awesome Lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,873 | 🐛 105 | 📅 2026-09-02 - The canonical list of awesome lists.
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 331,827 | 🐛 0 | 📅 2026-10-29 - Self-hosted software and services.
-* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 124,027 | 🐛 42 | 📅 2026-10-27 - Security learning resources.
-* [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,545 | 🐛 0 | 📅 2026-10-22 - Open-source sysadmin resources.
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,052 | 🐛 380 | 📅 2026-01-11 - Software security resources.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,528 | 🐛 105 | 📅 2026-09-02 - The canonical list of awesome lists.
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 332,157 | 🐛 0 | 📅 2026-10-29 - Self-hosted software and services.
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 124,121 | 🐛 43 | 📅 2026-10-27 - Security learning resources.
+* [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,552 | 🐛 0 | 📅 2026-10-22 - Open-source sysadmin resources.
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 15,053 | 🐛 381 | 📅 2026-01-11 - Software security resources.
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,185 | 🐛 83 | 📅 2026-07-15 - Cryptography resources and libraries.
 * [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech) ⚠️ Archived - Humane, ethical, and privacy-conscious technology.
 
@@ -318,4 +318,4 @@ Good contributions add high-quality privacy tools, improve descriptions, remove 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
